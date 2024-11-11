@@ -1,14 +1,14 @@
 ## Ejercicio 2
 ### Primer paso
 Primero me he conectado al servidor remoto mediante ssh.
-Luego he introducido la contraseña
+Luego he introducido la contraseña  
 ![1](https://github.com/user-attachments/assets/7ddab2bc-502c-4071-ac1f-7f11ad23dd02)
 ~~~
 ssh usuario@192.168.0.185
 ~~~  
 
 ### Segundo paso
-Después he comprobado los directorios, y navegado hasta el escritorio.
+Después he comprobado los directorios, y navegado hasta el escritorio.  
 ![2](https://github.com/user-attachments/assets/bef8814c-31dc-4951-8fcc-da02929a857a)
 ~~~
 ls
@@ -25,10 +25,10 @@ echo > alvaroCollado.txt
 ### Cuarto paso
 Después he guardado el resultado de _whoami_ dentro del .txt
 ![4](https://github.com/user-attachments/assets/7458d661-9660-4f04-8178-bba9977f0bf4)  
+**Nota:** si nos saltamos el tercer paso y hacemos este directamente, se creará el archivo automaticamente. Por lo que el tercer paso  no es necesario, pero lo he incluido por ir por partes.  
 ~~~
 whoami > alvaroCollado.txt
 ~~~  
-**Nota:** si nos saltamos el tercer paso y hacemos este directamente, se creará el archivo automaticamente. Por lo que el tercer paso  no es necesario, pero lo he incluido por ir por partes.
 
 ### Quinto paso
 Y por último he concatenado el comando _who_ que es el necesario para listar quienes están conectados por ssh.

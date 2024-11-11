@@ -27,7 +27,7 @@ Después he guardado el resultado de _whoami_ dentro del .txt
 ~~~
 whoami > alvaroCollado.txt
 ~~~
-![4](https://github.com/user-attachments/assets/7458d661-9660-4f04-8178-bba9977f0bf4)
+![4](https://github.com/user-attachments/assets/7458d661-9660-4f04-8178-bba9977f0bf4)  
 **Nota:** si nos saltamos el tercer paso y hacemos este directamente, se creará el archivo automaticamente. Por lo que el tercer paso  no es necesario, pero lo he incluido por ir por partes.
 
 ### Quinto paso

@@ -16,7 +16,7 @@ cd Escritorio
 ~~~
 
 ### Tercer paso
-Luego creo el archivo vacío. 
+Luego creo el archivo vacío.   
 ![3](https://github.com/user-attachments/assets/3e0f4dd7-2831-4a94-99cc-6a7e00051d00)
 ~~~
 echo > alvaroCollado.txt
